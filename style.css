@@ -39,7 +39,7 @@ h2 {
 
 .half-width {
     width: 50%;
-    margin: 70px;
+    margin: 40px 40px 40px 100px;
     padding: 15px;
 }
 
@@ -92,7 +92,7 @@ h2 {
 }
 
 #blog-text1 {
-    text-align: left;
+    text-align: center;
     padding: 0 0 0 150px;
 }
 
@@ -102,7 +102,7 @@ h2 {
 }
 
 #blog-text3 {
-    text-align: right;
+    text-align: center;
     padding: 0 150px 0 0;
 }
 
