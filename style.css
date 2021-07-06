@@ -91,17 +91,24 @@ h2 {
     border-radius: 15px;
 }
 
-.blog-text1 {
+#blog-text1 {
     text-align: left;
     padding: 0 0 0 150px;
 }
 
-.blog-text2 {
+#blog-text2 {
     text-align: center;
     padding: 0 250px;
 }
 
-.blog-text3 {
+#blog-text3 {
     text-align: right;
     padding: 0 150px 0 0;
+}
+
+.fifth-banner {
+    background-color: black;
+    text-align: center;
+    color: rgb(170, 170, 170);
+    padding: 35px;
 }
