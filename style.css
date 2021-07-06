@@ -14,22 +14,35 @@ body {
     border-radius: 100px;
     font-size: 14px;
     color: white;
-    font-weight: 600;
+    font-weight: 580;
 }
 
 h1 {
     font-size: 40px;
+    font-weight: 700;
 }
 
 .flexible {
     display: flex;
 }
 
+.second-banner {
+    background-image: url('images/shapes/frame.jpg');
+    background-size: cover;
+}
+
 .half-width {
     width: 50%;
     margin: 70px;
+    padding: 15px;
 }
 
 .half-width img {
     width: 60%;
+}
+
+.half-width2 img {
+    width: 50%;
+    margin-left: 160px;
+    height: 400px;
 }
