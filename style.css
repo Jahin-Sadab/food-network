@@ -53,7 +53,7 @@ h2 {
     height: 400px;
 }
 
-.recipe-area {
+.recipe-head {
     text-align: center;
     margin-bottom: 40px;
 }
@@ -72,13 +72,36 @@ h2 {
 }
 
 .blog-1 {
-    margin-left: 80px;
+    margin-left: 60px;
 }
 
 .blog-2 {
-    margin: 0 50px 0 50px;
+    margin: 0 40px 0 40px;
 }
 
 .blog-3 {
-    margin-right: 80px;
+    margin-right: 60px;
+}
+
+.fourth-banner {
+    margin: 50px 60px 50px 60px;
+    background-color: white;
+    padding: 0 20px 0 20px;
+    box-shadow: 0 0 18px 3px rgb(177, 176, 176);
+    border-radius: 15px;
+}
+
+.blog-text1 {
+    text-align: left;
+    padding: 0 0 0 150px;
+}
+
+.blog-text2 {
+    text-align: center;
+    padding: 0 250px;
+}
+
+.blog-text3 {
+    text-align: right;
+    padding: 0 150px 0 0;
 }
