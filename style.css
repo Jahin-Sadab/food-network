@@ -86,14 +86,14 @@ h2 {
 .fourth-banner {
     margin: 50px 60px 50px 60px;
     background-color: white;
-    padding: 0 20px 0 20px;
+    
     box-shadow: 0 0 18px 3px rgb(177, 176, 176);
     border-radius: 15px;
 }
 
 #blog-text1 {
     text-align: center;
-    padding: 0 0 0 150px;
+    padding: 0 0 30px 150px;
 }
 
 #blog-text2 {
